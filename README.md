@@ -13,8 +13,8 @@
 - [x] User can filter products by category
 - [x] User can filter products by rating
 - [x] User can filter products by availability
-- [ ] JSON Web Tokens (JWT) for authentication
-- [ ] Login and Register with hashing
+- [x] JSON Web Tokens (JWT) for authentication
+- [x] Login and Register with hashing
 
 ## Models
 
